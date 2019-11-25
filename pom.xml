@@ -10,7 +10,7 @@
 
     <groupId>io.thorntail.jdk-specific</groupId>
     <artifactId>thorntail-jdk-specific</artifactId>
-    <version>2-SNAPSHOT</version>
+    <version>2</version>
 
     <properties>
         <jdk.min.version>9</jdk.min.version>
@@ -61,7 +61,7 @@
         <connection>scm:git:git@github.com:thorntail/jdk-specific.git</connection>
         <developerConnection>scm:git:git@github.com:thorntail/jdk-specific.git</developerConnection>
         <url>https://github.com/thorntail/jdk-specific</url>
-        <tag>HEAD</tag>
+        <tag>2</tag>
     </scm>
 
     <licenses>
