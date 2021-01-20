@@ -24,7 +24,7 @@
               - this must match the JBoss Modules version used by Thorntail
               - (which typically matches the version used by the respective WildFly version)
               -->
-            <version>1.10.0.Final</version>
+            <version>1.11.0.Final</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
